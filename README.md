@@ -13,7 +13,7 @@
 
 ## 🎓 Education  
 
-📘 *Undergraduate in Software Engineering / IT*  
+📘 **Undergraduate in Software Engineering / IT**  
 
 ---
 
@@ -67,12 +67,16 @@
 
 ---
 
-## 📊 Contribution Activity  
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
