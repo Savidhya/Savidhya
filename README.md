@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Savidhya&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Savidhya&theme=dark&hide_border=true&background=0d47a1&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
 </p>
 
 ---
