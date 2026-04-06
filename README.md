@@ -1,24 +1,23 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#00BFFF;">Savidhya Karunathilake</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h3>
-
+<!-- ==================== HEADER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1,1976d2&height=200&section=header&text=Savidhya%20Karunathilake&fontSize=40&fontColor=ffffff" />
+</div>
+<!-- Animated Typing Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Web+Developer;🎮+Unity+Game+Creator;💡+Building+Interactive+Apps+and+Story-Driven+Experiences;⚡+Frontend+%26+Backend+Enthusiast;🌱+Always+Learning+New+Technologies" />
 </p>
 
+<!-- About Me GIF -->
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px" style="border-radius:50%; box-shadow:0 0 15px #00BFFF;" />
 </p>
 
 ---
 
 ## 🎓 Education  
 
-📘 **Undergraduate in Software Engineering / IT**  
-
----
-
-<p align="center">
-   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<p align="left" style="color:#94a3b8;">
+📘 <strong>BSc (Hons) Software Engineering</strong> – University of Plymouth
 </p>
 
 ---
@@ -27,21 +26,22 @@
 
 <p align="center">
 
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css" /><br/>
+<sub style="color:#94a3b8;">Languages</sub><br/><br/>
 
-  <strong>Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /><br/>
+<sub style="color:#94a3b8;">Frontend</sub><br/><br/>
 
-  <strong>Backend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /><br/>
+<sub style="color:#94a3b8;">Backend</sub><br/><br/>
 
-  <strong>Database</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br/>
+<sub style="color:#94a3b8;">Database</sub><br/><br/>
 
-  <strong>Tools</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br/>
 
+<sub style="color:#94a3b8;">Tools & Game Dev</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=unity" /><br/>
 </p>
 
 ---
@@ -49,34 +49,46 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <!-- Email -->
   <a href="mailto:savidhya7000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=00BFFF" />
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/Savidhya">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-1e293b?style=for-the-badge&logo=github&logoColor=00BFFF" />
   </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/94769113721">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Me-green?style=for-the-badge&logo=whatsapp" />
+  <a href="https://www.linkedin.com/in/savidhya-karunathilake-4787a7256/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-1e293b?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
   </a>
 </p>
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+## 📊 Commit Journey
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Savidhya/Savidhya/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Savidhya&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Targets 
+
+- Build immersive web applications that perform
+
+- Design story-driven games that engage
+
+- Grow across full-stack, game development, and creative problem-solving
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b&height=120&section=footer" width="100%" />
 </p>
